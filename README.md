@@ -1,1 +1,1 @@
-# FMI-projects repository #
+# FMI-homeworks repository #
